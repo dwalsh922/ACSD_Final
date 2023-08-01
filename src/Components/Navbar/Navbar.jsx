@@ -10,7 +10,7 @@ import logo from "../../assets/image_6487327.JPG"
     return(
         <div className="navbar-container">
             <div className="row">
-                <div className="col-sm-4 col-3">
+                <div className="col-sm-4 col-1">
   
                 </div>
                 <div className="col-sm-4 logo col-6">
