@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ACSD_Final/static/css/main.54c78a82.css",
-    "main.js": "/ACSD_Final/static/js/main.dc4c3723.js",
+    "main.css": "/ACSD_Final/static/css/main.ee28d33d.css",
+    "main.js": "/ACSD_Final/static/js/main.de4dd0d3.js",
     "static/js/787.459be994.chunk.js": "/ACSD_Final/static/js/787.459be994.chunk.js",
     "static/media/hat.png": "/ACSD_Final/static/media/hat.9b87c8ae46317945c9de.png",
     "static/media/swim-shorts.png": "/ACSD_Final/static/media/swim-shorts.ce909405ca1e0659d403.png",
@@ -21,12 +21,12 @@
     "static/media/image_6487327.JPG": "/ACSD_Final/static/media/image_6487327.e7992715ec10598fb94b.JPG",
     "static/media/hoodie-2.png": "/ACSD_Final/static/media/hoodie-2.d81ea485793fca538fb6.png",
     "index.html": "/ACSD_Final/index.html",
-    "main.54c78a82.css.map": "/ACSD_Final/static/css/main.54c78a82.css.map",
-    "main.dc4c3723.js.map": "/ACSD_Final/static/js/main.dc4c3723.js.map",
+    "main.ee28d33d.css.map": "/ACSD_Final/static/css/main.ee28d33d.css.map",
+    "main.de4dd0d3.js.map": "/ACSD_Final/static/js/main.de4dd0d3.js.map",
     "787.459be994.chunk.js.map": "/ACSD_Final/static/js/787.459be994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54c78a82.css",
-    "static/js/main.dc4c3723.js"
+    "static/css/main.ee28d33d.css",
+    "static/js/main.de4dd0d3.js"
   ]
 }
