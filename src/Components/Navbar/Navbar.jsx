@@ -10,15 +10,15 @@ import logo from "../../assets/image_6487327.JPG"
     return(
         <div className="navbar-container">
             <div className="row">
-                <div className="col-sm-4">
+                <div className="col-sm-4 col-3">
   
                 </div>
-                <div className="col-sm-4 logo">
+                <div className="col-sm-4 logo col-6">
                     <Link to="/">
                         <img src={logo}/>
                     </Link>
                 </div>
-                <div className="col-sm-4 cart-icon"> 
+                <div className="col-sm-4 col-3 cart-icon"> 
                     <Link to ="/cart"> 
                         <ShoppingCart size={32}/>
                     </Link>
