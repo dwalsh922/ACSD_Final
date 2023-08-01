@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <ShopContextProvider>
-        <Router>
+        <Router basename="ACSD_Final">
           <Navbar/>
           <Routes>
             <Route path = "/" element = {<Shop/>}/>
