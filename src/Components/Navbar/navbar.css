@@ -14,8 +14,7 @@
 }
 .row{
     height: 80px;
-    --bs-gutter-x: 0;
-    --bs-gutter-y: 0;
+    justify-content: space-between;
 
 }
 .logo img{
@@ -44,4 +43,40 @@
     color: white;
     margin-left: 20px;
     font-size: 25px;
+}
+.col-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logout{
+    display: flex;
+    justify-content: center;
+    background-color: #0f0f0f;
+    height: 100px;
+    width: 50%;
+    padding-top: 50px;
+}
+
+.left{
+    padding: 15px;
+}
+
+#logout{
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+
+}
+
+.account{
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+@media (max-width: 845px) {
+    .logout{
+        width: 130px;
+    }
 }
