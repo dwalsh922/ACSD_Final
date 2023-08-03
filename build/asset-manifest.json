@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ACSD_Final/static/css/main.34f82918.css",
+    "main.js": "/ACSD_Final/static/js/main.0fca2005.js",
+    "static/js/787.459be994.chunk.js": "/ACSD_Final/static/js/787.459be994.chunk.js",
+    "static/media/hat.png": "/ACSD_Final/static/media/hat.9b87c8ae46317945c9de.png",
+    "static/media/swim-shorts.png": "/ACSD_Final/static/media/swim-shorts.ce909405ca1e0659d403.png",
+    "static/media/Shorts.png": "/ACSD_Final/static/media/Shorts.85b946d08490b44fb7dc.png",
+    "static/media/gloves.png": "/ACSD_Final/static/media/gloves.915314b2745e3e812f69.png",
+    "static/media/cargo-pants.png": "/ACSD_Final/static/media/cargo-pants.b196ef3f5a3217d739c6.png",
+    "static/media/My project.png": "/ACSD_Final/static/media/My project.793ad0b281436b0fa844.png",
+    "static/media/jumper.png": "/ACSD_Final/static/media/jumper.b0336ea27b0d115a38a0.png",
+    "static/media/t-shirt.webp": "/ACSD_Final/static/media/t-shirt.5b19e9ebaeb33039d590.webp",
+    "static/media/nike-hoodie.png": "/ACSD_Final/static/media/nike-hoodie.f56521e9e53268259fa3.png",
+    "static/media/blue-jeans.png": "/ACSD_Final/static/media/blue-jeans.a2d128a1d3a6062396d4.png",
+    "static/media/tshirt-3.png": "/ACSD_Final/static/media/tshirt-3.24f2b42116be4890017a.png",
+    "static/media/trousers.png": "/ACSD_Final/static/media/trousers.e85bcbbb341f2cda29e9.png",
+    "static/media/Green-Hoodie.png": "/ACSD_Final/static/media/Green-Hoodie.0ef078933ef62d433934.png",
+    "static/media/tshirt-2.png": "/ACSD_Final/static/media/tshirt-2.54a033e3c30d7492d26c.png",
+    "static/media/xmas-jumper.png": "/ACSD_Final/static/media/xmas-jumper.d008df920692d940aa2f.png",
+    "static/media/image_6487327.JPG": "/ACSD_Final/static/media/image_6487327.e7992715ec10598fb94b.JPG",
+    "static/media/hoodie-2.png": "/ACSD_Final/static/media/hoodie-2.d81ea485793fca538fb6.png",
+    "index.html": "/ACSD_Final/index.html",
+    "main.34f82918.css.map": "/ACSD_Final/static/css/main.34f82918.css.map",
+    "main.0fca2005.js.map": "/ACSD_Final/static/js/main.0fca2005.js.map",
+    "787.459be994.chunk.js.map": "/ACSD_Final/static/js/787.459be994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f82918.css",
+    "static/js/main.0fca2005.js"
+  ]
+}
