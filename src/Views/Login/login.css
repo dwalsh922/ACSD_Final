@@ -1,0 +1,73 @@
+.login{
+    height:100vh;
+    background-color: #0f0f0f;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-card{
+    display: flex;
+    width: 60%;
+    background-color: white;
+    border-radius: 10px;
+    min-height: 600px;
+    background-size: cover;
+    overflow: hidden;
+
+}
+.login-left{
+    background-image: linear-gradient(rgba(59, 53, 53, 0.5), rgba(61, 55, 55, 0.5)), url(../../assets/pexels-georgie-devlin-13680054.jpg);
+    flex:1;
+    background-size: cover;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: white;
+}
+.login-right{
+    flex:1;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: rgb(32, 32, 32);
+    justify-content: center;
+
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    align-items:baseline;
+    
+}
+#welcome{
+    font-size: 50px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+#login-reg-bttn{
+    width: 50%;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+#login-bttn{
+    width: 50%;
+    padding: 10px;
+    background-color: #0f0f0f;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+#input{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
