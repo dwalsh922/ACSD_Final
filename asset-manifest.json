@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/ACSD_Final/static/css/main.34f82918.css",
-    "main.js": "/ACSD_Final/static/js/main.0fca2005.js",
+    "main.css": "/ACSD_Final/static/css/main.2293e119.css",
+    "main.js": "/ACSD_Final/static/js/main.d11736fe.js",
     "static/js/787.459be994.chunk.js": "/ACSD_Final/static/js/787.459be994.chunk.js",
+    "static/media/pexels-georgie-devlin-13680054.jpg": "/ACSD_Final/static/media/pexels-georgie-devlin-13680054.184237a735467ea78020.jpg",
+    "static/media/pexels-karolina-grabowska-4210850.jpg": "/ACSD_Final/static/media/pexels-karolina-grabowska-4210850.cf569cd100a9ff3853b8.jpg",
     "static/media/hat.png": "/ACSD_Final/static/media/hat.9b87c8ae46317945c9de.png",
     "static/media/swim-shorts.png": "/ACSD_Final/static/media/swim-shorts.ce909405ca1e0659d403.png",
     "static/media/Shorts.png": "/ACSD_Final/static/media/Shorts.85b946d08490b44fb7dc.png",
@@ -21,12 +23,12 @@
     "static/media/image_6487327.JPG": "/ACSD_Final/static/media/image_6487327.e7992715ec10598fb94b.JPG",
     "static/media/hoodie-2.png": "/ACSD_Final/static/media/hoodie-2.d81ea485793fca538fb6.png",
     "index.html": "/ACSD_Final/index.html",
-    "main.34f82918.css.map": "/ACSD_Final/static/css/main.34f82918.css.map",
-    "main.0fca2005.js.map": "/ACSD_Final/static/js/main.0fca2005.js.map",
+    "main.2293e119.css.map": "/ACSD_Final/static/css/main.2293e119.css.map",
+    "main.d11736fe.js.map": "/ACSD_Final/static/js/main.d11736fe.js.map",
     "787.459be994.chunk.js.map": "/ACSD_Final/static/js/787.459be994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f82918.css",
-    "static/js/main.0fca2005.js"
+    "static/css/main.2293e119.css",
+    "static/js/main.d11736fe.js"
   ]
 }
